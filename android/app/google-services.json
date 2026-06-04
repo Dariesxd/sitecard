@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751385137703",
+    "project_id": "sitecard-7a583",
+    "storage_bucket": "sitecard-7a583.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751385137703:android:b5e13b93ad127cb6707402",
+        "android_client_info": {
+          "package_name": "com.example.sitecard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk_4EldV4is2W5iSkykxxy1Ho-OFNQ5ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
